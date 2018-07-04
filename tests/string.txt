@@ -1,0 +1,4 @@
+String @a;
+@a="variable";
+Print("string is working ");
+Print(@a);

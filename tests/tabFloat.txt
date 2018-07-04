@@ -1,0 +1,8 @@
+Fl @tabF[3];
+@tabF[0]=1.5;
+@tabF[1]=3;
+@tabF[1+1]=4+2.2;
+
+Print(@tabF[0]);
+Print(@tabF[1]);
+Print(@tabF[2]);

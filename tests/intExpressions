@@ -1,0 +1,27 @@
+Print("simple expresions");
+Int @a;
+Int @b;
+Int @result;
+
+Print("enter a first integer");
+Read(@a);
+Print("enter a second integer");
+Read(@b);
+
+@result=@a+@b;
+Print("addition ");
+Print(@result);
+
+@result=@a-@b;
+Print("substraction ");
+Print(@result);
+
+@result=@a*@b;
+Print("multiplication ");
+Print(@result);
+
+@result=@a/@b;
+Print("division ");
+Print(@result);
+
+

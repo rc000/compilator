@@ -1,0 +1,13 @@
+Fl @a;
+Print("dzialania mieszane przypisane do floata, int z lewej");
+@a=8+4.5;
+Print(@a);
+Print("dzialania mieszane przypisane do floata, int z prawej");
+@a=4.6+9;
+Print(@a);
+Print("dzialania calkowite do floata");
+@a=4+9;
+Print(@a);
+Print("Liczba calkowita do floata");
+@a=4;
+Print(@a);

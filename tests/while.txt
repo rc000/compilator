@@ -1,0 +1,13 @@
+Int @x;
+@x=0;
+
+While(@x<5)
+{
+	While(@x<3)
+	{
+		@x=@x+1;
+		Print("inside loop");
+	};
+		Print("outside loop");
+		@x=@x+1;
+};

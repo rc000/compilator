@@ -1,0 +1,28 @@
+Int @a[10];
+
+Int @x;
+Print("enter number of iterations, less than 10);
+Read(@x);
+Int @i;
+@i=0;
+Print("Program displays squares of numbers ");
+While(@i<@x)
+{
+	@a[@i]=@i*@i;
+	Print(@a[@i]);
+	@i=@i+1;
+};
+
+Print("nested array");
+@a[0]=1;
+@a[1]=2;
+@a[2]=3;
+Print(@a[@a[@a[0]]]);
+
+Print("expresions as index of array");
+Print("left side of equation");
+@a[1+2]=3*2;
+Print(@a[3]);
+Print("right side of equation");
+@x=@a[1+2]+7;
+Print(@x);
