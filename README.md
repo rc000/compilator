@@ -19,17 +19,17 @@ Operation on variables
     o	 division(/)
  •	Type conversion:
  
-   o	Int -> Fl
+    o	Int -> Fl
    
-   o	Fl -> Int
+    o	Fl -> Int
    
  •	Output:
  
-   o	Print(@zmienna);
+     o	Print(@zmienna);
    
  •	Input:
  
-  o	Read(@zmienna);
+    o	Read(@zmienna);
   
 Arrays
 
