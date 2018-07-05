@@ -2,7 +2,7 @@
 
 
  Data types
-ll
+
   •	Integer
   
     Int @variablename;
