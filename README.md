@@ -1,7 +1,7 @@
 # Compiler
 
 
-Data types
+# Data types
 
   •	Integer
   
