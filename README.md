@@ -1,8 +1,8 @@
 # Compiler
 
 
-# Data types
-
+ Data types
+ll
   •	Integer
   
     Int @variablename;
