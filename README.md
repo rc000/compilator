@@ -3,11 +3,17 @@ Compilator
 
 Data types
 
-  •	Integer Int @variablename;
+  •	Integer
+  
+    Int @variablename;
 
-  •	Floating point with single precision Fl @ variablename;
+  •	Floating point with single precision 
+  
+    Fl @variablename;
 
-  •	String String @ variablename;
+  •	String 
+  
+    String @variablename;
 
 Operation on variables
 
